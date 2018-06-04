@@ -1,6 +1,6 @@
 This is a program developed for two-wheel self-balacing car.
 
---- / History /-------------------------
+ History
 Most of the code is developed by mr_fid, who published a tutorial of "YET ANOTHER BALANCING ROBOT!" in instructable (https://www.instructables.com/id/Yet-Another-Balancing-Robot/).
 
 --- / Code /-------------------------
