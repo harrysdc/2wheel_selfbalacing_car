@@ -18,8 +18,8 @@ unsigned long lastTime;
 
 int output;
 double errSum, lastErr;
-float cycleTime = 0.004;  //in seconds
-double kp = 1.4;      //1.405
+float cycleTime = 0.004;  // in seconds
+double kp = 1.4;          // kp, ki, kd are parameter of PID control.
 double ki = 9.1;
 double kd = 5.86;       
 double accelData;
