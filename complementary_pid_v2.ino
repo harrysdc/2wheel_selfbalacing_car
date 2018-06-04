@@ -97,7 +97,6 @@ void correctTime()
 void calcOutput()
 {
   error = setpoint - input;
-  error = error;
   errSum = errSum + (error * cycleTime); //intergral part sum of errors past
   
   double dInput = input - lastInput;
