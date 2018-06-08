@@ -6,5 +6,5 @@ Most of the code is developed by mr_fid, who published a tutorial of "YET ANOTHE
 Click the car to watch the demo video!
 [![2wheel_selfbalacing_car](car_body.JPG)](https://www.youtube.com/watch?v=P9LesqNCIhM)
 
-
+![2wheel_selfbalacing_car](program_flow.png)
 
